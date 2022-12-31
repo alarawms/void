@@ -1,7 +1,5 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Voidrice Modified from (Luke Smith <https://lukesmith.xyz>'s dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
-[my YouTube channel](https://youtube.com/c/lukesmithxyz).
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -33,15 +31,8 @@ works with this setup. It gives you an easy-to-install terminal-based email
 client regardless of your email provider. It is integrated into these dotfiles
 as well.
 
-## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
 
-```
-curl -LO larbs.xyz/larbs.sh
-```
-
-or clone the repo files directly to your home directory and install the
 [dependencies](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
 
 ## Default Desktop Artwork
